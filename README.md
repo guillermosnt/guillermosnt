@@ -5,6 +5,13 @@ Actualmente estoy enfocado en seguir mejorando mis conocimientos, desarrollar pr
 
 Mi principal interés está en el desarrollo con Java y en el desarrollo de aplicaciones y soluciones web.
 
+## 📫 Contacto
+
+📧 **Email:** guille2000sg@gmail.com
+
+💼 **LinkedIn:** [Guillermo Santana](https://www.linkedin.com/in/guillermo-santana-garcía)
+
+🐙 **GitHub:** [@guillermosnt](https://github.com/guillermosnt)
 
 ## 🚀 Sobre mí
 

@@ -9,7 +9,7 @@ Mi principal interés está en el desarrollo con Java y en el desarrollo de apli
 
 📧 **Email:** guille2000sg@gmail.com
 
-💼 **LinkedIn:** [Guillermo Santana](https://www.linkedin.com/in/guillermo-santana-garcía)
+💼 **LinkedIn:** [Guillermo Santana García](https://www.linkedin.com/in/guillermo-santana-garcía)
 
 🐙 **GitHub:** [@guillermosnt](https://github.com/guillermosnt)
 

@@ -23,22 +23,6 @@ Me considero una persona responsable, constante y con muchas ganas de aprender. 
 
 Actualmente estoy buscando mi primera oportunidad profesional como desarrollador junior, donde pueda seguir aprendiendo, aportar mis conocimientos y crecer junto a un equipo de desarrollo.
 
-## 🛠️ Tecnologías
-
-### Lenguajes
-- ☕ Java
-- 🌐 HTML
-- 🎨 CSS
-- 🟨 JavaScript
-- 🗄️ SQL
-
-### Desarrollo
-- Desarrollo de aplicaciones multiplataforma
-- Desarrollo web
-- JavaFX
-- OutSystems
-- Bases de datos
-
 ## 📂 Proyectos
 
 En este perfil encontrarás proyectos personales y académicos desarrollados con el objetivo de poner en práctica mis conocimientos y seguir aprendiendo.
@@ -46,16 +30,6 @@ En este perfil encontrarás proyectos personales y académicos desarrollados con
 Cada proyecto representa una oportunidad para experimentar con nuevas tecnologías, mejorar mis habilidades y aplicar buenas prácticas de desarrollo.
 
 🚧 Actualmente trabajando en nuevos proyectos para ampliar mi portfolio.
-
-## 📚 Actualmente aprendiendo
-
-Actualmente estoy ampliando mis conocimientos y profundizando en nuevas tecnologías relacionadas con el desarrollo web y backend.
-
-- 🌱 Angular
-- 🌱 JavaScript
-- 🌱 Desarrollo de APIs REST
-- 🌱 Buenas prácticas de desarrollo
-- 🌱 Arquitectura y organización de aplicaciones
 
 ## 💼 Experiencia
 

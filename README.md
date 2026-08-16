@@ -1,4 +1,4 @@
-## ¡Hola! Soy Guillermo Santana
+## ¡Hola! Soy Guillermo Santana García
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y desarrollador junior apasionado por la programación y el desarrollo de software.
 
 Actualmente estoy enfocado en seguir mejorando mis conocimientos, desarrollar proyectos propios y aprender nuevas tecnologías que me permitan crecer profesionalmente como desarrollador.

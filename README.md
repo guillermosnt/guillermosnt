@@ -62,6 +62,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/guillermosnt/guillermosnt/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guillermosnt/guillermosnt/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guillermosnt/guillermosnt/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guillermosnt/guillermosnt/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###

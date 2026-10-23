@@ -1,51 +1,53 @@
-## ¡Hola! Soy Guillermo Santana García
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y desarrollador junior apasionado por la programación y el desarrollo de software.
+<h2 data-importer="text" align="left">¡Hola 👋! Soy Guillermo Santana, desarrollador de software junior de España.</h2>
 
-Actualmente estoy enfocado en seguir mejorando mis conocimientos, desarrollar proyectos propios y aprender nuevas tecnologías que me permitan crecer profesionalmente como desarrollador.
+###
 
-Mi principal interés está en el desarrollo con Java y en el desarrollo de aplicaciones y soluciones web.
+<h5 data-importer="text" align="left">💻 Me gusta desarrollar aplicaciones, aprender nuevas tecnologías y mejorar mis habilidades de programación cada día.<br><br>☕ Tecnologías: Java, Spring Boot, SQL, HTML, CSS y JavaScript.<br><br>🚀 Actualmente aprendiendo: Angular y buenas prácticas de arquitectura de software.<br><br>🛠️ Mis proyectos: Desarrollo aplicaciones web y de escritorio con el objetivo de crear soluciones prácticas y seguir creciendo como programador.<br><br>🎯 Mi objetivo: Seguir aprendiendo, escribir código limpio y mantenible, y tener la oportunidad de participar en proyectos reales.<br><br>📂 ¡Echa un vistazo a mis repositorios!</h5>
 
-## 📫 Contacto
+###
 
-📧 **Email:** guille2000sg@gmail.com
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/guillermosnt/guillermosnt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/guillermosnt/guillermosnt/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-💼 **LinkedIn:** [Guillermo Santana García](https://www.linkedin.com/in/guillermo-santana-garcía)
+###
 
-🐙 **GitHub:** [@guillermosnt](https://github.com/guillermosnt)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+</div>
 
-## 🚀 Sobre mí
+###
 
-Durante mi formación en DAM he trabajado con diferentes lenguajes, herramientas y tecnologías relacionadas con el desarrollo de software.
+<div data-importer="socials" align="left">
+  <a href="guille2000sg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/guillermo-santana-garc%C3%ADa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-También tuve la oportunidad de realizar mis prácticas profesionales en ATOS, donde participé en el desarrollo de una aplicación de gestión de tareas desde cero, trabajando en su diseño, implementación y pruebas dentro de un entorno empresarial.
+###
 
-Me considero una persona responsable, constante y con muchas ganas de aprender. Cuando me encuentro con una tecnología o problema que no conozco, me gusta investigar, practicar y buscar la forma de entenderlo y solucionarlo.
+<br clear="both">
 
-Actualmente estoy buscando mi primera oportunidad profesional como desarrollador junior, donde pueda seguir aprendiendo, aportar mis conocimientos y crecer junto a un equipo de desarrollo.
+<img data-importer="snake" src="https://raw.githubusercontent.com/guillermosnt/guillermosnt/snake-output/snake.svg" alt="Snake animation" />
 
-## 📂 Proyectos
-
-En este perfil encontrarás proyectos personales y académicos desarrollados con el objetivo de poner en práctica mis conocimientos y seguir aprendiendo.
-
-Cada proyecto representa una oportunidad para experimentar con nuevas tecnologías, mejorar mis habilidades y aplicar buenas prácticas de desarrollo.
-
-🚧 Actualmente trabajando en nuevos proyectos para ampliar mi portfolio.
-
-## 💼 Experiencia
-
-### Desarrollador de Aplicaciones Multiplataforma
-**ATOS ORIGIN CONSULTING CANARIAS · 2026**
-
-Durante mis prácticas profesionales participé en el desarrollo de una aplicación de gestión de tareas utilizando OutSystems.
-
-Mis principales tareas estuvieron relacionadas con:
-
-- Desarrollo de la aplicación desde cero.
-- Diseño e implementación de funcionalidades.
-- Realización de pruebas.
-- Trabajo en equipo dentro de un entorno profesional.
-- Adaptación a metodologías y formas de trabajo empresariales.
-
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guillermosnt&theme=gruvbox)](https://git.io/streak-stats)
+###

@@ -9,23 +9,21 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      - name: Generate Pacman contribution graph
+      - name: Generate Galaga
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: guillermosnt
-          outputs: |
-            dist/galaga-contribution-graph.svg
-            dist/galaga-contribution-graph-dark.svg
+          games: galaga
 
-      - name: Publish Pacman graph
+      - name: Publish graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output

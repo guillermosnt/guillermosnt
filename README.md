@@ -2,6 +2,12 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Desarrollador%20Backend%20Java&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=22272E"  />
+</div>
+
+###
+
 <h5 data-importer="text" align="left">💻 Me gusta desarrollar aplicaciones, aprender nuevas tecnologías y mejorar mis habilidades de programación cada día.<br><br>☕ Tecnologías: Java, Spring Boot, SQL, HTML, CSS y JavaScript.<br><br>🚀 Actualmente aprendiendo: Angular y buenas prácticas de arquitectura de software.<br><br>🛠️ Mis proyectos: Desarrollo aplicaciones web y de escritorio con el objetivo de crear soluciones prácticas y seguir creciendo como programador.<br><br>🎯 Mi objetivo: Seguir aprendiendo, escribir código limpio y mantenible, y tener la oportunidad de participar en proyectos reales.<br><br>📂 ¡Echa un vistazo a mis repositorios!</h5>
 
 ###
